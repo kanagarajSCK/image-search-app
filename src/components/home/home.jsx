@@ -187,7 +187,7 @@ export default function Home() {
     function End() {
         return (
             <div className="endDiv">
-                <p className='text-center'>Created 💖 by <a href="https://github.com/codeAbinash/image-searcher-react">Jagatheswaran M</a></p>
+                <p className='text-center'>Created 💖 by <a href="https://jagatheeswaran.ccbp.tech/">Jagatheswaran M</a></p>
             </div>
         )
     }
